@@ -24,6 +24,10 @@ It’s commonly used by **digital marketers, content creators, SEO experts, and 
 
 Whether you're a marketer, blogger, SEO professional, or business owner, SimilarWeb can help you understand traffic trends and optimize your strategy.
 
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
+</a>
+
 ## Step by Step Guide
 
 ### **Step-by-Step Guide to Check Website Traffic Using SimilarWeb**
@@ -73,6 +77,10 @@ Whether you're a marketer, blogger, SEO professional, or business owner, Similar
 
 - If you have a premium account, you can **export reports** for deeper analysis or presentations.
 
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
+
 ## Pricing & Plans
 
 | Plan | Price | Users | Historical Data | Keywords/Table | Features |
@@ -87,6 +95,10 @@ If you're just getting started or working with a small team, the **Starter plan*
 Now, if you're a team looking for something a bit more robust, the **Team plan** at **$14,000/year** gives you access for **5 users**, with **15 months** of data and **50,000 keywords**. You also get extra tools like **subdomain analysis**, **SERP insights**, and **country filters**. Perfect for a growing team that needs a little more power.
 
 And for the big leagues, the **Business plan** at **$35,000/year** takes things to the next level. You get everything from the Team plan, plus bonus features like **market research**, **API access**, and even more extended data. This one's made for teams who want to dive deep into data and get serious about strategy.
+
+<a href="https://afftrend.com/similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ## Use Cases
 
