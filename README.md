@@ -10,6 +10,10 @@ With this guide, you'll gain the skills to uncover website performance insights,
 
 ## What is SimilarWeb?
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1wL_YrD_FzFO0dIamD4qkq8XP2km25fmy"  alt="Similarweb Homepage">
+</a>
+
 **SimilarWeb** is a powerful digital analytics tool that helps you understand how websites perform online. It gives deep insights into website traffic, user behavior, and marketing strategies.
 
 Here’s what makes SimilarWeb useful:
@@ -36,6 +40,10 @@ Whether you're a marketer, blogger, SEO professional, or business owner, Similar
 
 - Visit www.similarweb.com using any browser.
 - You can use it without an account for basic access or sign up for more detailed features.
+
+  <a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1P3wuF2S4e0Z1Ekb4zIct4nCy456-e9qR"  alt="Similarweb Dashboard">
+</a>
 
 **Step 2: Enter the Website URL**
 
@@ -82,6 +90,10 @@ Whether you're a marketer, blogger, SEO professional, or business owner, Similar
 </a>
 
 ## Pricing & Plans
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing">
+</a>
 
 | Plan | Price | Users | Historical Data | Keywords/Table | Features |
 | --- | --- | --- | --- | --- | --- |
